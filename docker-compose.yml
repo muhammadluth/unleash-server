@@ -46,23 +46,16 @@ services:
       retries: 5
       start_period: 15s
   db:
-    image: postgres:alpine
+    image: postgres:15
     environment:
       # create a database called `db`
       POSTGRES_DB: "db"
       # trust incoming connections blindly (DON'T DO THIS IN PRODUCTION!)
       POSTGRES_HOST_AUTH_METHOD: "trust"
-    ports:
-      - "5435:5432"
     volumes:
       - ./volumes/database:/var/lib/postgresql/data
-    logging:
-      options:
-        max-size: 10m
-        max-file: "3"
-    networks:
-      - postgres
-    restart: unless-stopped
+    ports:
+      - "5435:5432"
     healthcheck:
       test:
         [
@@ -76,10 +69,6 @@ services:
       timeout: 1m
       retries: 5
       start_period: 10s
-
-networks:
-  postgres:
-    driver: bridge
 
 volumes:
   postgres:
