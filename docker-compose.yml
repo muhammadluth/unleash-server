@@ -54,6 +54,15 @@ services:
       POSTGRES_HOST_AUTH_METHOD: "trust"
     ports:
       - "5435:5432"
+    volumes:
+      - ./volumes/database:/var/lib/postgresql/data
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+    networks:
+      - postgres
+    restart: unless-stopped
     healthcheck:
       test:
         [
@@ -67,3 +76,10 @@ services:
       timeout: 1m
       retries: 5
       start_period: 10s
+
+networks:
+  postgres:
+    driver: bridge
+
+volumes:
+  postgres:
