@@ -1,0 +1,891 @@
+// Vitest Snapshot v1
+
+exports[`should render DrawerMenu 1`] = `
+[
+  <footer
+    className="css-10ce49z"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-10 css-16chest-MuiGrid-root"
+      style={
+        {
+          "marginBottom": 0,
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 css-g8shpt-MuiGrid-root"
+      >
+        <section
+          title="API details"
+        >
+          <h2
+            className="css-gtu1fw"
+          >
+            Unleash 3.x
+             
+          </h2>
+          <br />
+          <small>
+            The enterprise ready feature toggle service.
+          </small>
+          <br />
+        </section>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-auto css-16ccgsq-MuiGrid-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-7 css-3f6ufr-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+          >
+            <section
+              title="Unleash SDK"
+            >
+              <h2
+                className="css-gtu1fw"
+              >
+                Server SDKs
+              </h2>
+              <ul
+                className="MuiList-root MuiList-padding MuiList-dense css-zin4jp-MuiList-root"
+              >
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/node"
+                        target="_blank"
+                      >
+                        Node.js
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/java"
+                        target="_blank"
+                      >
+                        Java
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/go"
+                        target="_blank"
+                      >
+                        Go
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                 
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/ruby"
+                        target="_blank"
+                      >
+                        Ruby
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                 
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/python"
+                        target="_blank"
+                      >
+                        Python
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/dotnet"
+                        target="_blank"
+                      >
+                        .NET
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/php"
+                        target="_blank"
+                      >
+                        PHP
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks"
+                        target="_blank"
+                      >
+                        All SDKs
+                      </a>
+                    </span>
+                  </div>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+          >
+            <section
+              title="Unleash SDK"
+            >
+              <h2
+                className="css-gtu1fw"
+              >
+                Frontend SDKs
+              </h2>
+              <ul
+                className="MuiList-root MuiList-padding MuiList-dense css-zin4jp-MuiList-root"
+              >
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/unleash-proxy"
+                        target="_blank"
+                      >
+                        Unleash Proxy
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/javascript-browser"
+                        target="_blank"
+                      >
+                        JavaScript SDK
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/react"
+                        target="_blank"
+                      >
+                        React SDK
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/ios-proxy"
+                        target="_blank"
+                      >
+                        iOS SDK
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/android-proxy"
+                        target="_blank"
+                      >
+                        Android SDK
+                      </a>
+                    </span>
+                  </div>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+          >
+            <section>
+              <h2
+                className="css-gtu1fw"
+              >
+                About
+              </h2>
+              <ul
+                className="MuiList-root MuiList-padding MuiList-dense css-zin4jp-MuiList-root"
+              >
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://www.getunleash.io/"
+                        target="_blank"
+                      >
+                        getunleash.io
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://twitter.com/getunleash"
+                        target="_blank"
+                      >
+                        Twitter
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://www.linkedin.com/company/getunleash"
+                        target="_blank"
+                      >
+                        LinkedIn
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://github.com/Unleash/unleash"
+                        target="_blank"
+                      >
+                        GitHub
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://slack.unleash.run"
+                        target="_blank"
+                      >
+                        Slack Community
+                      </a>
+                    </span>
+                  </div>
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>,
+  <div
+    aria-atomic={true}
+    aria-live="polite"
+    className="css-gqbqkz"
+    data-testid="ANNOUNCER_ELEMENT_TEST_ID"
+    role="status"
+  />,
+]
+`;
+
+exports[`should render DrawerMenu with "features" selected 1`] = `
+[
+  <footer
+    className="css-10ce49z"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-10 css-16chest-MuiGrid-root"
+      style={
+        {
+          "marginBottom": 0,
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 css-g8shpt-MuiGrid-root"
+      >
+        <section
+          title="API details"
+        >
+          <h2
+            className="css-gtu1fw"
+          >
+            Unleash 3.x
+             
+          </h2>
+          <br />
+          <small>
+            The enterprise ready feature toggle service.
+          </small>
+          <br />
+        </section>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-auto css-16ccgsq-MuiGrid-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-7 css-3f6ufr-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+          >
+            <section
+              title="Unleash SDK"
+            >
+              <h2
+                className="css-gtu1fw"
+              >
+                Server SDKs
+              </h2>
+              <ul
+                className="MuiList-root MuiList-padding MuiList-dense css-zin4jp-MuiList-root"
+              >
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/node"
+                        target="_blank"
+                      >
+                        Node.js
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/java"
+                        target="_blank"
+                      >
+                        Java
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/go"
+                        target="_blank"
+                      >
+                        Go
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                 
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/ruby"
+                        target="_blank"
+                      >
+                        Ruby
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                 
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/python"
+                        target="_blank"
+                      >
+                        Python
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/dotnet"
+                        target="_blank"
+                      >
+                        .NET
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/php"
+                        target="_blank"
+                      >
+                        PHP
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks"
+                        target="_blank"
+                      >
+                        All SDKs
+                      </a>
+                    </span>
+                  </div>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+          >
+            <section
+              title="Unleash SDK"
+            >
+              <h2
+                className="css-gtu1fw"
+              >
+                Frontend SDKs
+              </h2>
+              <ul
+                className="MuiList-root MuiList-padding MuiList-dense css-zin4jp-MuiList-root"
+              >
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/unleash-proxy"
+                        target="_blank"
+                      >
+                        Unleash Proxy
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/javascript-browser"
+                        target="_blank"
+                      >
+                        JavaScript SDK
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/react"
+                        target="_blank"
+                      >
+                        React SDK
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/ios-proxy"
+                        target="_blank"
+                      >
+                        iOS SDK
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://docs.getunleash.io/reference/sdks/android-proxy"
+                        target="_blank"
+                      >
+                        Android SDK
+                      </a>
+                    </span>
+                  </div>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+          >
+            <section>
+              <h2
+                className="css-gtu1fw"
+              >
+                About
+              </h2>
+              <ul
+                className="MuiList-root MuiList-padding MuiList-dense css-zin4jp-MuiList-root"
+              >
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://www.getunleash.io/"
+                        target="_blank"
+                      >
+                        getunleash.io
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://twitter.com/getunleash"
+                        target="_blank"
+                      >
+                        Twitter
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://www.linkedin.com/company/getunleash"
+                        target="_blank"
+                      >
+                        LinkedIn
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://github.com/Unleash/unleash"
+                        target="_blank"
+                      >
+                        GitHub
+                      </a>
+                    </span>
+                  </div>
+                </li>
+                <li
+                  className="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-rw9v7e-MuiListItem-root"
+                  disabled={false}
+                >
+                  <div
+                    className="MuiListItemText-root MuiListItemText-dense css-tlelie-MuiListItemText-root"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-1nhzl8d-MuiTypography-root"
+                    >
+                      <a
+                        href="https://slack.unleash.run"
+                        target="_blank"
+                      >
+                        Slack Community
+                      </a>
+                    </span>
+                  </div>
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>,
+  <div
+    aria-atomic={true}
+    aria-live="polite"
+    className="css-gqbqkz"
+    data-testid="ANNOUNCER_ELEMENT_TEST_ID"
+    role="status"
+  />,
+]
+`;
